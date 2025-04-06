@@ -1,0 +1,14 @@
+body {
+    background-color: #d4dee7;
+}
+header {
+    margin-bottom: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+form {
+    background-color:whitesmoke;
+}
+
